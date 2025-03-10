@@ -1,8 +1,8 @@
 {
-    "ID": 573,
-    "name": "Task meno",
-    "description": "task description meno",
-    "time created": "Sun Mar  9 14:00:08 2025",
-    "time updated": "Sun Mar  9 14:00:08 2025",
-    "task_status": "3"
+    "ID": 23,
+    "name": "c",
+    "description": "c",
+    "time created": "Mon Mar 10 10:42:59 2025",
+    "time updated": "Mon Mar 10 10:42:59 2025",
+    "status": "done"
 }
